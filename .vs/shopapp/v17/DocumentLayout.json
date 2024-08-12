@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\Desktop\\shopapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ED91AB-2E36-4A6A-B45C-7D8EC123B6D9}|shopapp.webui\\shopapp.webui.csproj|c:\\users\\bilal\\desktop\\shopapp\\shopapp.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2ED91AB-2E36-4A6A-B45C-7D8EC123B6D9}|shopapp.webui\\shopapp.webui.csproj|solutionrelative:shopapp.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ED91AB-2E36-4A6A-B45C-7D8EC123B6D9}|shopapp.webui\\shopapp.webui.csproj|c:\\users\\bilal\\desktop\\shopapp\\shopapp.webui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2ED91AB-2E36-4A6A-B45C-7D8EC123B6D9}|shopapp.webui\\shopapp.webui.csproj|solutionrelative:shopapp.webui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bilal\\Desktop\\shopapp\\shopapp.webui\\appsettings.json",
+              "RelativeDocumentMoniker": "shopapp.webui\\appsettings.json",
+              "ToolTip": "C:\\Users\\bilal\\Desktop\\shopapp\\shopapp.webui\\appsettings.json",
+              "RelativeToolTip": "shopapp.webui\\appsettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T14:41:07.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\Desktop\\shopapp\\shopapp.webui\\Startup.cs",
+              "RelativeDocumentMoniker": "shopapp.webui\\Startup.cs",
+              "ToolTip": "C:\\Users\\bilal\\Desktop\\shopapp\\shopapp.webui\\Startup.cs",
+              "RelativeToolTip": "shopapp.webui\\Startup.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:19:47.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
